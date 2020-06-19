@@ -1,0 +1,76 @@
+{
+    
+    "agents" : [
+
+        {   "id"   : "1",
+            "name" : "BREACH",
+            "text" : "Breach, düşman topraklarında agresif bir şekilde yol açmak için güçlü, hedefli kinetik patlamalar ateşler. Verdiği hasar ve aksama, hiçbir kavganın adil olmamasını sağlar.\n\nBreach'in ana hüneri, yeteneklerini ister duvarlardan, çatılardan ister araziden haritanın geometrisi aracılığıyla kullanma yeteneğidir. Bu yetenek seti tecrübeli oyuncuları haritaları iyi tanıdığı için ödüllendirir. Yeteneklerinin çoğu kitle kontrol tabanlı olmasına rağmen, agresif bir oyun tarzını ödüllendiriyor gibi görünüyor.",
+            "image" : ""
+        },
+
+        {   "id"   : "2",
+            "name" : "BRIMSTONE",
+            "text" : "Brimstone’un yörünge cephaneliği ekibinin her zaman avantajlı olmasını sağlar.\n\nBrimstone, kışkırtıcı bombaları, duman perdesi hava saldırıları, düşmanlara zarar vermek ve takım arkadaşlarını güçlendirmek için hızlı uyarı işaretlerini kullanan güçlü bir komutan. Etkileyici Orbital Saldırısı, yarıçaptan yeterince hızlı kaçmayanları yok eden muazzam bir lazeri çağırıyor.",
+            "image" : ""
+        },
+
+        {   "id"   : "3",
+            "name" : "CYPHER",
+            "text" : "Cypher, düşmanın her hareketini takip eden tek kişilik bir gözetim ağıdır. Hiçbir sır güvende değil. Hiçbir manevra görünmez değil. Cypher her zaman sizi izliyor.\n\n Eğer istihbarat sizin işinizse, Cypher sizin ajanınız olabilir. Bu Faslı gözetim teknesi, tuzaklara takılan rakiplerinin konumlarını ortaya çıkarmasının yanı sıra, hareketi uzaktan izlemek için haritaya yerleştirilebilen gerçek bir spycam'a sahiptir.\n\nUltisi rakip takımda kalan karakterlerin yerini geçici olarak ortaya çıkarmak için bir düşman cesedinden bilgi alır.",
+            "image" : ""
+        },
+
+        {   "id"   : "4",
+            "name" : "JETT",
+            "text" : "Jett’in çevik ve kaçınılmaz dövüş tarzı, kimsenin yapamayacağı riskleri almasına izin verir. Her çatışmanın etrafında daireler çiziyor, düşmanları onlara neyin çarptığını bile bilmeden yok oluyor. \n \nJett pasif kabiliyete sahip birkaç ajandan biridir. Atlama tuşunu havada tutmak Jett'in inişini yavaşlatmasına izin verecektir.\n\nJett'in ultisi, orta derecede hasar veren ve kafadan vuruşlarda öldüren birkaç fırlatma bıçağı kullanmasına izin verir. Birini öldürmek ultinizi yeniler, hançerleri teker teker atmayı veya kalan tüm hançerleri kısa menzilli bir patlamada atmayı seçebilirsiniz.\n\nKore'den, her şeyden önce harekete öncelik veren ve çevik bir savaşçı olan Jett geliyor. Yetenekleri arasında ışınlanma temelli bir çizgi ve daha yüksek çıkıntılara ulaşmasına izin veren bir yukarı akım yer alıyor. Ayrıca görme çizgilerini engelleyecek bir duman bombası yeteneğine ve orta-ağır hasar veren ve hareket ederken bile doğru kalan güçlü bir ulti yeteneğine sahip.",
+            "image" : ""
+        },
+
+        {   "id"   : "5",
+            "name" : "OMEN",
+            "text" : "Gizemli kökenleri olan bir adam olan Omen, düşmanlarının görüşünü, görüş alanlarındaki kişilere yakını göremeyenlere ve yakındaki herkesin görüşünü kapatmak için patlayan bir küre gibi şeyleri kullanmaya odaklanmıştır. Ayrıca kısa bir mesafe ışınlanabilir ya da nihai noktasını haritanın herhangi bir yerinde gölge olarak ışınlamak için kullanabilir.",
+            "image" : ""
+        },
+
+        {   "id"   : "6",
+            "name" : "PHOENIX",
+            "text" : "Phoenix’in yıldız gücü savaş tarzında parlar, savaş alanını flaş ve parıltı ile ateşler. İster yedeği olsun ister olmasın, kendi şartlarıyla savaşmak için acele ediyor.\n\nDüşmanlara zarar veren ve onu iyileştiren patlayan ateş topları, vizyonu engelleyen bir ateş duvarı ve kör edici bir ateş patlaması ile Phoenix, maçın akışını manipüle etmekte harika. Ulti süresi boyunca öldürülürse yeniden doğma yeteneğine sahiptir, yapamayacağı cesur hareketler yapmak için onu canlandırır.\n\nPhoenix kendi ateşinde durarak kendini iyileştirebilir.",
+            "image" : ""
+        },
+
+        {   "id"   : "7",
+            "name" : "RAZE",
+            "text" : "Raze patlayıcıları sever. Kör-kuvvet-travma oyun tarzıyla köklü düşmanları yıkarken, cömert bir doz BOM ile dar alanları temizlemede mükemmeldir. \n\nRaze'nin oyun stili, VALORANT'daki diğer ajanlara kıyasla çok agresiftir, çünkü yeteneklerinin çoğu destek yerine hareketlilik ve hasara odaklanmıştır.",
+            "image" : ""
+        },
+
+        {   "id"   : "8",
+            "name" : "REYNA",
+            "text" : "Meksika'nın kalbinden kopup gelmiş Reyna teke tek çatışmalarda düşmanını ezer ve aldığı her skorla daha da coşar. Yapabilecekleri tamamen saf beceri gerektirir ve onu ciddi şekilde performansa dayalı kılar.",
+            "image" : ""
+        },
+
+        {   "id"   : "9",
+            "name" : "SAGE",
+            "text" : "Sage gittiği her yerde kendisi ve ekibi için güven yaratır. Ölmüş arkadaşlarını yeniden canlandırabilir ve zorlayıcı saldırılara maruz kalabilen savaş alanına sakin bir merkez sağlar.\n\nBugüne kadarki en önemli destek karakteri Çin'den geliyor ve müttefikleri iyileştiren, düşmanları yavaşlatan ve bir maçın akışını engellemek için yerden engeller oluşturan küreler getiriyor.",
+            "image" : ""
+        },
+
+        {   "id"   : "10",
+            "name" : "SOVA",
+            "text" : "Sova, acımasızca etkili ve hassasiyetle düşmanları izler, bulur ve ortadan kaldırır. Onun özel yay ve inanılmaz keşif yeteneklerinden koşsanız bile gizlenemezsiniz.\n\nBir okçuluk uzmanı, yayını düşman yerlerini ortaya çıkaran veya yakındaki rakipleri şok eden farklı cıvatalarla donatabilir. Aynı zamanda savaş alanını araştırmak için bir keşif uçağı gönderebilir.Ulti gücü ise duvarlardan üç ölümcül ok atışı yapmasına izin verir.",
+            "image" : ""
+        },
+
+        {   "id"   : "11",
+            "name" : "VIPER",
+            "text" : "Viper, savaş alanını kontrol etmek ve düşmanın vizyonunu sakatlamak için bir dizi zehirli kimyasal cihaz kullanıyor.Toksinler avını öldürmezse, akıl oyunları mutlaka bunu başaracaktır.\n\nZehir ve kimyasal savaşla uğraşan bir avcı. Savaş alanına asit döken patlayan mermilerin yanı sıra bir zehirli gaz yayıcısı ve geçişi önlemek için zehirli bir gaz ekranı var. Ultisi yerini gizleyen ve içinde dolaşan düşmanları zehirleyen toksik bir bulut yayar.",
+            "image" : ""
+        }
+
+        
+
+
+       
+    ]
+}
